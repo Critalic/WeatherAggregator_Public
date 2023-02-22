@@ -1,0 +1,5 @@
+TOKENS_FOLDER: src/main/resources/static/security/access-refresh-token-keys
+ACCESS_TOKEN_PRIVATE_KEY_PATH: src/main/resources/static/security/access-refresh-token-keys/access-token-private.key
+ACCESS_TOKEN_PUBLIC_KEY_PATH: src/main/resources/static/security/access-refresh-token-keys/access-token-public.key
+REFRESH_TOKEN_PRIVATE_KEY_PATH: src/main/resources/static/security/access-refresh-token-keys/refresh-token-private.key
+REFRESH_TOKEN_PUBLIC_KEY_PATH: src/main/resources/static/security/access-refresh-token-keys/refresh-token-public.key
