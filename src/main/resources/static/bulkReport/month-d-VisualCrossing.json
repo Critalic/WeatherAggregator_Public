@@ -1,0 +1,4 @@
+[
+ {"windSpeed":13.3,"windDirection":95.3,"temperature":2.2,"pressure":1019.0,"humidity":74.8,"time":"2024-03-03T00:00","conditions":"Partially cloudy","city":{"name":"Kyiv","lat":50.45,"lng":30.5236,"country":"Ukraine"}},
+ {"windSpeed":31.7,"windDirection":309.2,"temperature":7.5,"pressure":1013.7,"humidity":40.2,"time":"2024-03-03T00:00","conditions":"Partially cloudy","city":{"name":"Tokyo","lat":35.6839,"lng":139.7744,"country":"Japan"}}
+]
